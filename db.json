@@ -1,0 +1,10 @@
+{
+  "products": [
+    {
+      "id": "4bea",
+      "name": "Portatil Acer",
+      "description": "Este es un Acer Negro",
+      "amount": "2"
+    }
+  ]
+}
